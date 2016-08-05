@@ -469,6 +469,11 @@ Demo 地址：[SlideBottomPanelDemo 下载](https://github.com/kingideayou/Slide
 项目地址：[https://github.com/mxn21/FlowingDrawer](https://github.com/mxn21/FlowingDrawer)
 效果图：![Renderings](https://github.com/mxn21/FlowingDrawer/raw/master/screen.gif)  
 
+1. FloatingActionMenu-Animation  
+扩展FloatingActionMenu库，自定义菜单图标，动画滚动时
+项目地址: https://github.com/toanvc/FloatingActionMenu-Animation  
+效果图: ![Renderings](https://github.com/toanvc/FloatingActionMenu-Animation/raw/master/screenshots/scale.gif)    
+
 #### 四、ViewPager 、Gallery
 1. AdvancedPagerSlidingTabStrip   
 一个完美兼容ViewPager的导航栏组件；可以自定义TabView；能动态加载Tab上的Icon图片； 能显示Tab的消息数量和提示小圆点；支持自定义为微博形式的可滑动tab。  
@@ -726,7 +731,11 @@ https://github.com/siyamed/android-shape-imageview/raw/master/images/all-samples
 1. PhotoView  
 支持双指/双击缩放的ImageView,支持从一个PhotoView缩放到另外一个PhotoView(点击图片放大预览),相对于其他PhototView有更加平滑的缩放,平移的动画,并且支持所有的ScaleType,可以作为普通的ImageView使用  
 项目地址：https://github.com/bm-x/PhotoView  
-效果图：![Renderings](https://github.com/bm-x/PhotoView/raw/master/demo1.gif)    
+效果图：![Renderings](https://github.com/bm-x/PhotoView/raw/master/demo1.gif)  
+  
+1. TextWithImageDrawable  
+一个可以同时包含图片和文字的drawable,使用方式类似TextView和它的drawableLeft之类的方法,功能比较全面,可以代替TextView或是解决一些非得需要在ImageView中同时显示文字和图片的问题  
+项目地址：https://github.com/wuseal/TextWithImageDrawable  
 
 #### 七、ProgressBar
 1. SmoothProgressBar  
